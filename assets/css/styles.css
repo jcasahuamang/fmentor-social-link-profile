@@ -41,7 +41,7 @@ img{
 .section-information-name{
     color: var(--color-primary);
     font-size: clamp(var(--font-size-min), 5vw, var(--font-size-lg));
-    margin:0;
+    margin: 0.5rem 0 0 0;
     padding: 0;
 }
 .section-information-location{
